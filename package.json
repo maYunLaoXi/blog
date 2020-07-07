@@ -11,5 +11,8 @@
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.5.2",
     "vuepress": "^1.5.2"
+  },
+  "dependencies": {
+    "vuepress-theme-reco": "^1.5.3"
   }
 }
