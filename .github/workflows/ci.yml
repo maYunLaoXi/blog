@@ -40,5 +40,5 @@ jobs:
         PASSWORD: ${{ secrets.DEPLOY_PASSWORD }}
         HOST: ${{ secrets.DEPLOY_HOST }}
         POTY: 22
-        SOURCE: '/public'
+        SOURCE: 'public'
         TARGET: '/home/vuePress/blog'
