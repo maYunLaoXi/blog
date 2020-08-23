@@ -1,30 +1,53 @@
 module.exports = {
-  title: 'yingyinbi',
+  title: '影音笔',
   description: '描绘世界，分享故事',
   plugins: ['@vuepress/active-header-links'],
   theme: 'reco',
+  dest: 'public',
+  head: [
+    ['link', { rel: 'icon', href: '/hassblad-ico.ico' }],
+    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
+  ],
   themeConfig: {
-    // author
+    type: 'blog',
+    // 博客设置
+    blogConfig: {
+      category: {
+        location: 2, // 在导航栏菜单中所占的位置，默认2
+        text: '分类' // 默认 “分类”
+      },
+      tag: {
+        location: 3, // 在导航栏菜单中所占的位置，默认3
+        text: '标签' // 默认 “标签”
+      }
+    },
+    // 最后更新时间
+    lastUpdated: 'Last Updated', // string | boolean
+    // 作者
     author: 'yingyinbi',
+    // 项目开始时间
+    startYear: '2020',
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-      { text: 'awesomeMark', link: '/awesome/' },
+      { text: 'Home', link: '/', icon: 'reco-home'},
+      { text: '前端', link: '/categories/前端/' },
+      { text: '摄影', link: '/categories/摄影/' },
       {
         text: 'about',
         items: [
           { text: 'code', link: '/about/'},
-          { text: 'photo', link: '/'},
+          { text: 'photo', link: '/about/photo.md'},
         ]
       },
     ],
     sidebar: 'auto',
-    // 备案
-    record: 'ICP 备案文案',
-    recordLink: 'ICP 备案指向链接',
+    // 备案号
+    record: '粤ICP备20047855号',
+    // recordLink: 'ICP 备案指向链接',
+    recordLink: 'http://yingyinbi.com',
     cyberSecurityRecord: '公安部备案文案',
     cyberSecurityLink: '公安部备案指向链接',
-    // 项目开始时间，只填写年份
-    startYear: '2017'
-  }
+  },
+  markdown: {
+    lineNumbers: true // 是否在每个代码块的左侧显示行号。
+  },
 }
