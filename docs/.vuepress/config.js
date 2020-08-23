@@ -43,7 +43,7 @@ module.exports = {
     // 备案号
     record: '粤ICP备20047855号',
     // recordLink: 'ICP 备案指向链接',
-    recordLink: 'http://yingyinbi.com',
+    recordLink: 'https://beian.miit.gov.cn/#/Integrated/recordQuery',
     cyberSecurityRecord: '公安部备案文案',
     cyberSecurityLink: '公安部备案指向链接',
   },
