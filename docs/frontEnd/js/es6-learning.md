@@ -207,4 +207,92 @@ const h = 'hello'
     }
     ```
 
-    未完。。
+    
+
+2. 属性名可心使用表达式： 
+
+    ```javascript
+    
+    let foo = 'foo'
+    
+    let obj = {
+    	[foo]: 'fooValue'
+    }
+    
+    ```
+    
+3. 新增一些方法：
+
+   * Object.is()
+
+    * Object.assign()
+
+    * 对像的一些遍历：
+
+      Object.keys(), Object.values(), Object.entries()
+
+      ```javascript
+      for(let key of Object.keys(obj)) {}
+      for(let value of Object.values(obj)) {}
+      for(let [key,value] of Object.entries(obj)){}
+      ```
+
+    * 扩展运算符（常用）(es2017新增，在webpack中要另外的babel转换)
+
+   ## 6. Symbol
+
+   javascript又新增的一种数据类型（第七种，另外6种为：`Undefined`、`Null`、`Boolean`、`String`、`Number`、`Object`)
+
+   注：symbol作为对象的属性名时不会被`for...in`,`for...of`,`Object.keys()`识别；可以改用`Reflect.ownkeys`方法.
+
+   
+
+   ## 7. Set、Map
+
+   Set和map是ES6新增的数据结构。
+
+   * Set
+
+     特点： 1. 类似数组，但其成员是唯一的。
+
+     	2. 是一个构造函数。
+
+     用法： 
+
+     ​	数组去重：
+
+     ```javascript
+     [...new Set([1,1,1,2,3,4,3])]
+     Array.from(new Set([1,1,1,2,3,4,3]))
+     ```
+
+   * Map
+
+     特点： 
+
+     1. 为了解决javascript的对象只能用了符串作为键的问题。
+
+     用法： （使用实例的set,get,delete方法增，查，删）
+
+     ```javascript
+     const m = new Map()
+     const obj = {a: 'aa'}
+     m.set(obj, 'obj as key')
+     m.get(obj) // 'obj as key'
+     m.delete(obj)
+     ```
+
+     也可以在new 时接受一个数组
+
+     ```javascript
+     const obj = { a: 'aa'}
+     const m = new Map([
+     	['name': 'ym'],
+     	[obj, { b: 'bbbb' }]
+     ])
+     ```
+
+     > 这段时间有一个很火的文章讲如何使用map组构来优化长长的if..else的
+
+
+    未完。。    
