@@ -5,6 +5,7 @@ categories:
  - 前端
 tags:
  - es6
+ - javaScript
 author: maYunLaoXi
 ---
 
