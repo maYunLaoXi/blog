@@ -20,6 +20,9 @@ ES6新增的内容比较多，而且开发当中也是常常会用到，有了�
 
 ES6的学习当然是首推`阮一峰`老师的《ES6标准入门》一书。下面也是对这本书的个人阅读总结。
 
+先来张搬砖图:
+
+[![w1pLZj.md.jpg](https://s1.ax1x.com/2020/09/09/w1pLZj.md.jpg)](https://imgchr.com/i/w1pLZj)
 
 
 ## 1. const 和 let
