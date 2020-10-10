@@ -32,12 +32,7 @@ module.exports = {
       { text: '前端', link: '/categories/前端/' },
       { text: '摄影', link: '/categories/摄影/' },
       {
-        text: 'about',
-        items: [
-          { text: 'code', link: '/about/'},
-          { text: 'photo', link: '/about/photo.md'},
-        ]
-      },
+        text: '资料', link: '/awesome/'},
     ],
     sidebar: 'auto',
     // 备案号
