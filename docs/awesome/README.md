@@ -22,6 +22,7 @@ author: 码云老细
 
 ## JavaScript
 * [f-com](https://github.com/maYunLaoXi/f-com): 我自己封装的js开发常用工具库
+* [ES6标标入门-阮一峰](https://es6.ruanyifeng.com/): 阮一峰这本书的在线版（方便查），不过仍然建议买纸质书看。
 
 ## CSS
 
