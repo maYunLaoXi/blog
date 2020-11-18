@@ -42,3 +42,6 @@ author: 码云老细
 
 ## 有趣有项目
 * [dan-cli](https://github.com/maYunLaoXi/dan-cli): 自己写的多页面脚手架,webpack, jQuery一定程序上兼容ie8以上浏览器
+
+## 书和其它
+* [深入浅出webpack](https://webpack.wuhaolin.cn/): 《深入浅出webpack》的在线版
