@@ -17,8 +17,6 @@ author: 码云老细
 * [muwoo](https://github.com/muwoo/blogs): 就职蚂蚁,推荐他的vue源码解读。
 * [前端小课](https://lefex.gitee.io/): 一个百度工程师正在写的前端学习博客网站[github](https://github.com/lefex/FE)
 * [豆瓣FE学习计划](https://web.banlikanban.com/kanban/5f8bfdb1be3ec506e83150bf/)： 一个豆瓣群友整理的前端内容
-<br />
-<br />
 
 ## JavaScript
 * [f-com](https://github.com/maYunLaoXi/f-com): 我自己封装的js开发常用工具库
@@ -28,14 +26,10 @@ author: 码云老细
 
 * [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css): css各种实现方法
 * [Can I use](https://caniuse.com/): 查询css语法在各大浏览器的支持程度（必备）
-<br />
-<br />
 
 ## VUE
 * [nuxt](https://www.nuxtjs.cn/): 一个vue框架，可生成利于ssr的服务端渲染多页应用。
 * [boostrap-vue](https://bootstrap-vue.org/): bootstrap4的vue版,[中文文档](http://code.z01.com/bootstrap-vue/docs/)
-<br />
-<br />
 
 ## 微信小程序
 * [影音笔摄影](https://github.com/maYunLaoXi/yingyinbiclound)： 自己写的一个云开发小程序（有后台管理）
