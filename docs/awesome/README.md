@@ -40,8 +40,9 @@ author: 码云老细
 ## 微信小程序
 * [影音笔摄影](https://github.com/maYunLaoXi/yingyinbiclound)： 自己写的一个云开发小程序（有后台管理）
 
-## 有趣有项目
+## 有趣有用的项目
 * [dan-cli](https://github.com/maYunLaoXi/dan-cli): 自己写的多页面脚手架,webpack, jQuery一定程序上兼容ie8以上浏览器
+* [airbnb代码规范](https://github.com/airbnb/javascript): 前端最热门的代码规范,([中文入口](https://github.com/lin-123/javascript))
 
 ## 书和其它
 * [深入浅出webpack](https://webpack.wuhaolin.cn/): 《深入浅出webpack》的在线版
