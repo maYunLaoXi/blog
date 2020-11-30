@@ -18,3 +18,12 @@ git config --global -l
 git config --global user.name myName
 git congit --global user.email myemail@yin.com
 ```
+
+```
+修改已commit的备注
+git commit --amend
+
+输入i
+编辑后
+输入:wq退出
+```
