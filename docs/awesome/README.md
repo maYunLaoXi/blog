@@ -30,6 +30,7 @@ author: 码云老细
 ## VUE
 * [nuxt](https://www.nuxtjs.cn/): 一个vue框架，可生成利于ssr的服务端渲染多页应用。
 * [boostrap-vue](https://bootstrap-vue.org/): bootstrap4的vue版,[中文文档](http://code.z01.com/bootstrap-vue/docs/)
+* [Vue Test Utils](https://vue-test-utils.vuejs.org/zh/): vue官方测试工具
 
 ## 微信小程序
 * [影音笔摄影](https://github.com/maYunLaoXi/yingyinbiclound)： 自己写的一个云开发小程序（有后台管理）
