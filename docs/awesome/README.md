@@ -40,5 +40,7 @@ author: 码云老细
 * [airbnb代码规范](https://github.com/airbnb/javascript): 前端最热门的代码规范,([中文入口](https://github.com/lin-123/javascript))
 * [awesome-actions](https://github.com/sdras/awesome-actions): 收集gitHub actions有用项目的一个仓库
 
+## 算法/数据结构/面试题
+* [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm): 十大经典排序算法
 ## 书和其它
 * [深入浅出webpack](https://webpack.wuhaolin.cn/): 《深入浅出webpack》的在线版
