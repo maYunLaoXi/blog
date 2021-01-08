@@ -17,6 +17,7 @@ author: 码云老细
 * [muwoo](https://github.com/muwoo/blogs): 就职蚂蚁,推荐他的vue源码解读。
 * [前端小课](https://lefex.gitee.io/): 一个百度工程师正在写的前端学习博客网站[github](https://github.com/lefex/FE)
 * [豆瓣FE学习计划](https://web.banlikanban.com/kanban/5f8bfdb1be3ec506e83150bf/)： 一个豆瓣群友整理的前端内容
+* [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
 ## JavaScript
 * [f-com](https://github.com/maYunLaoXi/f-com): 我自己封装的js开发常用工具库
