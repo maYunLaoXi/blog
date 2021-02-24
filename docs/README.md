@@ -1,6 +1,6 @@
 ---
 home: true
-bgImage: '/广州塔-web.jpg'
+bgImage: 'http://img.yingyinbi.com/guangzhoutower.jpg'
 bgImageStyle: {
   height: '400px'
 }
