@@ -40,6 +40,5 @@ jobs:
         USERNAME: ${{ secrets.DEPLOY_USER }} # 为了用户信息安全对敏感数据可以在secrets中配置请看下图
         PASSWORD: ${{ secrets.DEPLOY_PASSWORD }}
         HOST: ${{ secrets.DEPLOY_HOST }}
-        POTY: 22
         SOURCE: 'public'
         TARGET: '/usr/local/web/blog'
