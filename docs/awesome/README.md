@@ -43,6 +43,9 @@ author: 码云老细
 
 ## 算法/数据结构/面试题
 * [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm): 十大经典排序算法
+* [前端知识库](https://www.html5iq.com/): 里面有面试题
+* [掘金：面试必读文章](https://juejin.cn/post/6844904116339261447)
+
 ## 书和其它
 * [深入浅出webpack](https://webpack.wuhaolin.cn/): 《深入浅出webpack》的在线版
 * [雅虎前端优化的35条军规](https://www.cnblogs.com/xianyulaodi/p/5755079.html): 前段性能优化
