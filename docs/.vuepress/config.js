@@ -21,6 +21,10 @@ module.exports = {
         text: '标签' // 默认 “标签”
       }
     },
+    valineConfig: {
+      appId: 'KfcNw3yNzHAdH6vPwjf0XwA2-9Nh9j0Va',// your appId
+      appKey: 'eYyhimGuMFkQFNsfeXER0yMS', // your appKey
+    },
     // 最后更新时间
     lastUpdated: 'Last Updated', // string | boolean
     // 作者

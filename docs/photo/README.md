@@ -1,6 +1,6 @@
 ---
 title: 影音笔网站说明(作者简介)
-date: 2020-08-20
+date: 2021-04-15 15:00:00
 categories:
  - 摄影
 tags:
@@ -21,7 +21,6 @@ author: feigle
 [segmentfault思否](https://segmentfault.com/u/mayunlaoxi)
 
 [gitHub](https://github.com/maYunLaoXi)
-
 #### 有关摄影
 
 就职互联网公司，以及来了这个满城都是打拼的成市之后，已经很少出去拍照了。摄影中的人像、风光、胶片我都很喜欢，可以带带小白入门什么的。有时间的时候还拍一点视频。所以有兴趣的小伙快来。
