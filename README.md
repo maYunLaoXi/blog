@@ -1,6 +1,7 @@
 # 个人博客网站
 
-基于[vuePress](https://vuepress.vuejs.org/),gitHub Actions自动发布： 介绍文章： [前端程序员如何利用vuePress和gitHub Actions快自动发布个人博客](https://segmentfault.com/a/1190000023958363)
+基于[vuePress](https://vuepress.vuejs.org/),gitHub Actions自动发布： 
+发布介绍文章： [前端程序员如何利用vuePress和gitHub Actions快自动发布个人博客](https://segmentfault.com/a/1190000023958363)
 
 网站地址： [yingyinbi](http://www.yingyinbi.com/)
 
