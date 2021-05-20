@@ -1,5 +1,6 @@
 ---
 title: 影音笔网站说明(作者简介)
+sticky: 1
 date: 2021-04-15 15:00:00
 categories:
  - 摄影

@@ -43,3 +43,4 @@ author: maYunLaoXi
 * 表现：
   1. 同一个BFC下margin会重叠
   2. BFC可以包含浮动的元素（消浮动)
+  3.  BFC 可以阻止元素被浮动元素覆盖
