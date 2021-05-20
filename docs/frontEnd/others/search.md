@@ -27,3 +27,5 @@ git commit --amend
 编辑后
 输入:wq退出
 ```
+### 关联远程分支时，远程分支存在代码而无法提交
+see [https://blog.csdn.net/wd2014610/article/details/80854807](https://blog.csdn.net/wd2014610/article/details/80854807)
