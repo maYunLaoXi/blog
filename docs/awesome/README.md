@@ -27,6 +27,8 @@ author: 码云老细
 
 * [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css): css各种实现方法
 * [Can I use](https://caniuse.com/): 查询css语法在各大浏览器的支持程度（必备）
+* [www.cssfontstack](https://www.cssfontstack.com/)： web字体在各平台的支持情况
+* [浏览器字体总结](https://zhuanlan.zhihu.com/p/25857934): 一篇很好的浏览器字体总结文章
 
 ## VUE
 * [nuxt](https://www.nuxtjs.cn/): 一个vue框架，可生成利于ssr的服务端渲染多页应用。
