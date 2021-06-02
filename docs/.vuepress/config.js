@@ -6,7 +6,8 @@ module.exports = {
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/hassblad-ico.ico' }],
-    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
+    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
+    ['script', { src: '/filter-css.js' }]
   ],
   themeConfig: {
     type: 'blog',
