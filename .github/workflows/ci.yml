@@ -34,11 +34,24 @@ jobs:
       run:  yarn && yarn build
     
     # 上传服务器
-    - name: Deploy to Server
-      uses: hengkx/ssh-deploy@v1.0.1
-      with: # 以下为参数
-        USERNAME: ${{ secrets.DEPLOY_USER }} # 为了用户信息安全对敏感数据可以在secrets中配置请看下图
-        PASSWORD: ${{ secrets.DEPLOY_PASSWORD }}
-        HOST: ${{ secrets.DEPLOY_HOST }}
-        SOURCE: 'public'
-        TARGET: '/usr/local/web/blog'
+    # - name: Deploy to Server
+    #  uses: hengkx/ssh-deploy@v1.0.1
+    #  with: # 以下为参数
+    #    USERNAME: ${{ secrets.DEPLOY_USER }} # 为了用户信息安全对敏感数据可以在secrets中配置请看下图
+    #    PASSWORD: ${{ secrets.DEPLOY_PASSWORD }}
+    #    HOST: ${{ secrets.DEPLOY_HOST }}
+    #    SOURCE: 'public'
+    #    TARGET: '/usr/local/web/blog'
+
+    # 使用云开发 Github Action 部署
+    - name: Deploy static to Tencent CloudBase
+      id: deployStatic
+      uses: TencentCloudBase/cloudbase-action@v1
+      with:
+        # 云开发的访问密钥 secretId 和 secretKey
+        secretId: ${{ secrets.SECRET_ID }}
+        secretKey: ${{ secrets.SECRET_KEY }}
+        # 云开发的环境id
+        envId: ${{ secrets.ENV_ID }}
+        # Github 项目静态文件的路径
+        staticSrcPath: public
