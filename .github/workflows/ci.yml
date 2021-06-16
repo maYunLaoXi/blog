@@ -30,8 +30,8 @@ jobs:
         node-version: '12'
 
     # Runs a set of commands using the runners shell
-    # - name: Run install and build
-    #  run:  yarn && yarn build
+    - name: Run install and build
+      run:  yarn && yarn build
     
     # 上传服务器
     # - name: Deploy to Server
@@ -54,4 +54,4 @@ jobs:
         # 云开发的环境id
         envId: ${{ secrets.ENV_ID }}
         # Github 项目静态文件的路径
-        staticSrcPath: docs
+        staticSrcPath: public
