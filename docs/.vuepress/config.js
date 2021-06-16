@@ -5,7 +5,7 @@ module.exports = {
   theme: 'reco',
   dest: 'public',
   head: [
-    ['link', { rel: 'icon', href: '/hassblad-ico.ico' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
     ['script', { src: '/filter-css.js' }]
   ],

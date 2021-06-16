@@ -29,3 +29,6 @@ git commit --amend
 ```
 ### 关联远程分支时，远程分支存在代码而无法提交
 see [https://blog.csdn.net/wd2014610/article/details/80854807](https://blog.csdn.net/wd2014610/article/details/80854807)
+
+### 远程连接服务器
+重启后要输入密码：  ssh-add -K 密钥
