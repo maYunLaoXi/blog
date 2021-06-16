@@ -1,5 +1,6 @@
 {
   "envId": "{{env.ENV_ID}}",
   "version": "2.0",
-  "framework": {}
+  "framework": {},
+  "region": "gz"
 }
