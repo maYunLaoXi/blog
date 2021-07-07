@@ -35,6 +35,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/', icon: 'reco-home'},
       { text: '前端', link: '/categories/前端/' },
+      { text: '面试', link: '/interview/'},
       { text: '摄影', link: '/categories/摄影/' },
       {
         text: '资料', link: '/awesome/'},
