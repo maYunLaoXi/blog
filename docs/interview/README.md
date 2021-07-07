@@ -43,7 +43,7 @@ author: maYunLaoXi
 
 ### VUE
 
-* [vueRouter相关](/interview/vue/vueRotuer.md)
+* [vueRouter相关](/interview/vue/vueRouter.md)
 * [vue双向数据绑定的原理](/interview/vue/vue-defineReactive.md)
 
 ### 面试真题（笔试）
