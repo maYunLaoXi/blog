@@ -32,3 +32,34 @@ see [https://blog.csdn.net/wd2014610/article/details/80854807](https://blog.csdn
 
 ### 远程连接服务器
 重启后要输入密码：  ssh-add -K 密钥
+
+### mac安装nvm的坑
+访问gitHub主页： [https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+
+终端输入:
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+```
+
+按装成功后找不到nvm，文档还说要添加以下文件到 ~/.bash_profile文件里，但是我的电脑没有这个，要手动添加一个
+
+```
+# 新建一个
+touch ~/.bash_profile
+```
+添加官网的代码
+
+```
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+```
+
+最后如果不生效，在终端执行
+
+```
+source ~/.bash_profile
+```
+以上如果在安装时连接gitHub的源报443的话，还要改一下host
+查ip的网站： [https://www.ipaddress.com/](https://www.ipaddress.com/)
+
+改host可以用这个软件: [https://github.com/oldj/SwitchHosts/releases](https://github.com/oldj/SwitchHosts/releases)

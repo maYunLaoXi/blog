@@ -6,10 +6,13 @@
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "node deploy.js",
+    "build:deploy": "npm run build && npm run deploy"
   },
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.5.2",
+    "open": "^8.2.1",
     "vuepress": "^1.5.2"
   },
   "dependencies": {
