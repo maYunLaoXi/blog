@@ -23,27 +23,6 @@ jobs:
     - name: checkout branch master
       uses: actions/checkout@master
 
-    # Runs a single command using the runners shell
-    # see https://github.com/actions/setup-node
-    # - name: Setup Node.js environment
-    #  uses: actions/setup-node@v2.1.2
-    #  with:
-    #    node-version: '12'
-
-    # Runs a set of commands using the runners shell
-    # - name: Run install and build
-    #   run:  yarn && yarn build
-    
-    # 上传服务器
-    # - name: Deploy to Server
-    #  uses: hengkx/ssh-deploy@v1.0.1
-    #  with: # 以下为参数
-    #    USERNAME: ${{ secrets.DEPLOY_USER }} # 为了用户信息安全对敏感数据可以在secrets中配置请看下图
-    #    PASSWORD: ${{ secrets.DEPLOY_PASSWORD }}
-    #    HOST: ${{ secrets.DEPLOY_HOST }}
-    #    SOURCE: 'public'
-    #    TARGET: '/usr/local/web/blog'
-
     # 使用云开发 Github Action 部署
     - name: Deploy static to Tencent CloudBase
       id: deployStatic

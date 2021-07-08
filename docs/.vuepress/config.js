@@ -1,12 +1,13 @@
 module.exports = {
   title: '影音笔',
-  description: '描绘世界，分享故事',
+  description: '描绘世界，分享故事：影音笔是一个分享摄影，分享前端知识的个人博客平台，注有“影音笔”公众号，“影音笔摄影”微信小程序和“影音笔”前端博客网站',
   plugins: ['@vuepress/active-header-links'],
   theme: 'reco',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
+    ['meta', { name: 'keywords', content: '影音笔，影音笔小程序，影音笔摄影，影音笔公众号,yingyinbi' }],
     ['script', { src: '/filter-css.js' }]
   ],
   themeConfig: {
