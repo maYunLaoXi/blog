@@ -1,5 +1,8 @@
 {
   "envId": "{{env.ENV_ID}}",
   "version": "2.0",
-  "region": "ap-guangzhou"
+  "region": "ap-guangzhou",
+  "framework": {
+    "name": "blog"
+  }
 }
