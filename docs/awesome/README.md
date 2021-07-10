@@ -13,7 +13,7 @@ author: 码云老细
 
 ## BLOG(大神们的博客)
 * [醋玩乖乖](https://www.kwgg2020.com): 各种前端资源的收集
-* [awesome-bookmark](https://panjiachen.gitee.io/awesome-bookmarks/): element-admin作者的收藏夹，面式，内推等。强推
+* [awesome-bookmark](https://panjiachen.github.io/awesome-bookmarks/): element-admin作者的收藏夹，面式，内推等。强推
 * [muwoo](https://github.com/muwoo/blogs): 就职蚂蚁,推荐他的vue源码解读。
 * [前端小课](https://lefex.gitee.io/): 一个百度工程师正在写的前端学习博客网站[github](https://github.com/lefex/FE)
 * [豆瓣FE学习计划](https://web.banlikanban.com/kanban/5f8bfdb1be3ec506e83150bf/)： 一个豆瓣群友整理的前端内容
