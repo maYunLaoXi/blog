@@ -90,18 +90,18 @@ author: feigle
 3号和6号各绕一次就行了。
 
 
-![](https://gitee.com/maYunLaoXi/image/raw/master/macbook13/5D1C8041-E0C7-4B88-B66F-4D2BE16C6DE0_1_105_c.jpeg)
+![图片，微信好像打不开](https://fbt-web.oss-cn-shenzhen.aliyuncs.com/test/E6ACECC2-EF82-48B2-AF43-88192B9291DF_1_105_c.jpeg)
 
-![](https://gitee.com/maYunLaoXi/image/raw/master/macbook13/D66BC5EC-9BAA-4BD3-8479-B71081422F2F_1_105_c.jpeg)
+![图片](https://fbt-web.oss-cn-shenzhen.aliyuncs.com/test/D66BC5EC-9BAA-4BD3-8479-B71081422F2F_1_105_c.jpeg)
 
-![](https://gitee.com/maYunLaoXi/image/raw/master/macbook13/E6ACECC2-EF82-48B2-AF43-88192B9291DF_1_105_c.jpeg)
+![图片](https://fbt-web.oss-cn-shenzhen.aliyuncs.com/test/ACE5407B-7709-4CAB-987C-A37C744BD867_1_105_c.jpeg)
 
-![](https://gitee.com/maYunLaoXi/image/raw/master/macbook13/ACE5407B-7709-4CAB-987C-A37C744BD867_1_105_c.jpeg)
+![图片](https://fbt-web.oss-cn-shenzhen.aliyuncs.com/test/7CE62A5B-8D19-4CFC-A4A3-2B2085243E24_1_105_c.jpeg)
 
-![](https://gitee.com/maYunLaoXi/image/raw/master/macbook13/5E475A1D-76F4-4CD3-ADE7-2F976FC47BD6_1_105_c.jpeg)
+![图片](https://fbt-web.oss-cn-shenzhen.aliyuncs.com/test/5D1C8041-E0C7-4B88-B66F-4D2BE16C6DE0_1_105_c.jpeg)
 
-![](https://gitee.com/maYunLaoXi/image/raw/master/macbook13/E3D7FA1C-E604-499D-96D5-CDF39E1D3874_1_105_c.jpeg)
+![图片](https://fbt-web.oss-cn-shenzhen.aliyuncs.com/test/558C024D-08FE-48DB-AEB7-1B46186B801A_1_105_c.jpeg)
 
-![](https://gitee.com/maYunLaoXi/image/raw/master/macbook13/D46C5516-AA92-4B16-8185-7102DC257E95_1_105_c.jpeg)
+![图片](https://fbt-web.oss-cn-shenzhen.aliyuncs.com/test/D46C5516-AA92-4B16-8185-7102DC257E95_1_105_c.jpeg)
 
 <div style="font-size: 40px;text-align: center; color: #BD3121"> 国庆快乐!</div>
