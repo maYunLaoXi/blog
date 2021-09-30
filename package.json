@@ -1,7 +1,7 @@
 {
   "name": "vuepress",
   "version": "1.0.0",
-  "description": "vuepress项目",
+  "description": "个人博客",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
