@@ -23,16 +23,27 @@ author: feigle
 
 当然，初学摄影，技法方面的书少不了。这里推荐经典的《美国纽约摄影学摄影教材》（共两册）这两本书偏商业应用，也已经改版过很多次了，其中包含很多胶片的知识。基础中的基础。
 
+<!-- 我看过的一些书：
+[《人像本事》](https://book.douban.com/subject/25984203/)、[《狂人摄影日记》](https://book.douban.com/subject/26279396/) -->
+
 ## 参考网站
 ### 国内
 
-国内摄影社区：[图虫社区](https://tuchong.com/community)、[poco网](https://photo.poco.cn/)，里面有相当多优秀的摄影师发表自己的作品。
-
-《人像摄影》杂志网站： [http://www.rxsy.net](http://www.rxsy.net)
+* 图虫社区，有比较多的网红优秀摄影师：[https://tuchong.com/community](https://tuchong.com/community)
+* poco网， 同上：[https://photo.poco.cn](https://photo.poco.cn)
+* 《人像摄影》杂志网站： [http://www.rxsy.net](http://www.rxsy.net)
+* 视觉中国：[https://www.vcg.com/](https://www.vcg.com/)
 
 ### 国际
-一个很有影响力的摄影比赛：[International Photography Awards(IPA)](https://photoawards.com/winner)
-iphone摄影奖 (iPhone Photography Awards)所有参塞照片只能用iphone拍：[IPPA](https://www.ippawards.com)
+部分国内无法访问
+* 普利策奖，被誉为新闻界的“奥斯卡金像奖”：[https://www.pulitzer.org/](https://www.pulitzer.org/)
+* 荷赛官网，有世界新闻摄影比赛之称： [https://www.worldpressphoto.org](https://www.worldpressphoto.org)
+* 一个很有影响力的摄影比赛：[International Photography Awards(IPA)](https://photoawards.com/winner)
+* iphone摄影奖 (iPhone Photography Awards， IPPA)所有参塞照片只能用iphone拍：[https://www.ippawards.com](https://www.ippawards.com)
+* 光污染地图（拍星空神器）：[https://www.lightpollutionmap.info](https://www.lightpollutionmap.info)
+* 卷川实花，日本著名时尚摄影师，也有出电影：[http://www.ninamika.com](http://www.ninamika.com)
+* 500px图库网站： [https://500px.com](https://500px.com)
+* 微微安的图片集：[http://www.vivianmaier.com/](http://www.vivianmaier.com/)
 
 
 同时也可以去
