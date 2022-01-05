@@ -24,9 +24,15 @@ author: feigle
 当然，初学摄影，技法方面的书少不了。这里推荐经典的《美国纽约摄影学摄影教材》（共两册）这两本书偏商业应用，也已经改版过很多次了，其中包含很多胶片的知识。基础中的基础。
 
 ## 参考网站
+### 国内
+
 国内摄影社区：[图虫社区](https://tuchong.com/community)、[poco网](https://photo.poco.cn/)，里面有相当多优秀的摄影师发表自己的作品。
 
 《人像摄影》杂志网站： [http://www.rxsy.net](http://www.rxsy.net)
+
+### 国际
+一个很有影响力的摄影比赛：[International Photography Awards(IPA)](https://photoawards.com/winner)
+iphone摄影奖 (iPhone Photography Awards)所有参塞照片只能用iphone拍：[IPPA](https://www.ippawards.com)
 
 
 同时也可以去
