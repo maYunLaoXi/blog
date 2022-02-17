@@ -1,5 +1,5 @@
 ---
-title: 知识链接汇总
+title: 知识链接汇总（面试）
 sticky: 1
 date: 2021-04-01 00:00:00
 categories:
@@ -9,6 +9,8 @@ author: maYunLaoXi
 
 ### 介绍
 面试复习与总结传用链接
+
+[我对前端面试的一些看法与心得](/interview/talk.md)
 
 ### 作者其它博客
 
