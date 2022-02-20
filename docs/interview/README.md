@@ -6,7 +6,7 @@ categories:
  - 前端知识
 author: maYunLaoXi
 ---
-
+![搬砖图](http://img.yingyinbi.com/picgo/IMG_0926.jpg?imageslim)
 ### 介绍
 面试复习与总结传用链接
 
@@ -16,7 +16,7 @@ author: maYunLaoXi
 
 * [个人博客：http://www.yingyinbi.com](http://www.yingyinbi.com/)
 * [GitHub：https://github.com/maYunLaoXi](https://github.com/maYunLaoXi)
-* [思否主页：https://segmentfault.com/u/mayunlaoxi](https://segmentfault.com/u/mayunlaoxi)
+* [思否主页（将弃用）：https://segmentfault.com/u/mayunlaoxi](https://segmentfault.com/u/mayunlaoxi)
 
 ### JavaScript
 
