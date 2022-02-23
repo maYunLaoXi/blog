@@ -64,3 +64,15 @@ author: maYunLaoXi
 * [https://bitable.feishu.cn](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
 
 * [2万字 | 前端基础拾遗90问](https://juejin.cn/post/6844904116552990727)
+
+### 相关文档（PDF）
+
+**文档是从不同渠道收集而来，公用于交流学习，切勿相信文档里面的任何广告（包括培训机构广告）！！！**
+
+[前端面试题1（问答式）](http://img.yingyinbi.com/pdf/%E5%AD%97%E8%8A%82%E5%89%8D%E7%AB%AF%E7%AC%AC%E4%B8%80%E6%9C%9F%E9%9D%A2%E8%AF%95%E9%A2%98.pdf)
+
+[前端面试题2（问答式）](http://img.yingyinbi.com/pdf/%E9%98%BF%E9%87%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C%EF%BC%88%E7%AC%AC%E4%B8%80%E6%9C%9F%EF%BC%89.pdf)
+
+[前端面试题3（问答式）](http://img.yingyinbi.com/pdf/%E9%98%BF%E9%87%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%AC%AC%E4%BA%8C%E6%9C%9F.pdf)
+
+[前端面试题4（问答式）](http://img.yingyinbi.com/pdf/%E9%98%BF%E9%87%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E7%AC%AC3%E6%9C%9F.pdf)
