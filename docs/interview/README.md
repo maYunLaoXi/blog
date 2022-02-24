@@ -76,3 +76,6 @@ author: maYunLaoXi
 [前端面试题3（问答式）](http://img.yingyinbi.com/pdf/%E9%98%BF%E9%87%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%AC%AC%E4%BA%8C%E6%9C%9F.pdf)
 
 [前端面试题4（问答式）](http://img.yingyinbi.com/pdf/%E9%98%BF%E9%87%8C%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E7%AC%AC3%E6%9C%9F.pdf)
+
+
+还有一些其他学习资料在这：[一些学习书籍](/frontEnd/doc.html)
