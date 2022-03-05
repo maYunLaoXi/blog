@@ -7,13 +7,15 @@ tags:
  - css
 author: maYunLaoXi
 ---
+
 ### 提问次数： 3
 ## 定义
 
 BFC(Block Formatting Context)：块级格式化上下文。是页面中的一块渲染区域，有自己的一套渲染规则，不会受外界影响。
 
 ## 触发BFC的条件
-* 根元素（<html>)(<body>好像也是)
+
+* 根元素（\<html\>)(\<body\>好像也是)
 * 浮动元素：`float`为`none`以外的值
 * 绝对定位元素：`position`为`absolute`,`fixed`
 * `display`为`inline-block`, `table-cell`, `flex`
@@ -76,7 +78,7 @@ BFC(Block Formatting Context)：块级格式化上下文。是页面中的一块
 
 
 
-参考
+## 参考
 
 * [https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context)
 

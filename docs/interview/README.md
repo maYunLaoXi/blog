@@ -29,11 +29,13 @@ author: maYunLaoXi
 * [new作做的事及其实现](/interview/javaScript/new.md)
 * [ES6的新特性](/interview/javaScript/es6.md)
 * [js数组去重（方法及耗时测试）](/interview/javaScript/array-unique.md)
+* [promise的实现](/interview/javaScript/promise.md)
 
 ### css
 
 * [BFC（定义，实现方法，作用）](/interview/css/BFC.md)
 * [盒子居中](/interview/css/boxCenter.md)
+* [消除浮动的方法](/interview/css/clearfix.md)
 
 ### 浏览器相关
 
@@ -44,6 +46,7 @@ author: maYunLaoXi
 * [常见状态码](/interview/broswer/statusCode.md)
 * [浏览器的事件](/interview/broswer/DOMEvents.md)
 * [从输入URL到页面渲染的过程](/interview/broswer/url2render.md)
+* [history和hash路由的工作原理](/interview/broswer/router.md)
 
 ### VUE
 
@@ -65,9 +68,12 @@ author: maYunLaoXi
 
 * [2万字 | 前端基础拾遗90问](https://juejin.cn/post/6844904116552990727)
 
+### 面试与简历
+* [想进大厂？简历要这么写（大圣）](https://www.bilibili.com/video/BV1FB4y1T7CP/?spm_id_from=333.788)
+* [2.4k star的程序员简历编写指南](https://github.com/geekcompany/ResumeSample/blob/master/web.md)
 ### 相关文档（PDF）
 
-**文档是从不同渠道收集而来，公用于交流学习，切勿相信文档里面的任何广告（包括培训机构广告）！！！**
+**文档是从不同渠道收集而来，公用于交流学习，切勿相信文档里面的任何广告）！！！**
 
 [前端面试题1（问答式）](http://img.yingyinbi.com/pdf/%E5%AD%97%E8%8A%82%E5%89%8D%E7%AB%AF%E7%AC%AC%E4%B8%80%E6%9C%9F%E9%9D%A2%E8%AF%95%E9%A2%98.pdf)
 
