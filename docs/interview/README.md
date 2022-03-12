@@ -71,6 +71,9 @@ author: maYunLaoXi
 ### 面试与简历
 * [想进大厂？简历要这么写（大圣）](https://www.bilibili.com/video/BV1FB4y1T7CP/?spm_id_from=333.788)
 * [2.4k star的程序员简历编写指南](https://github.com/geekcompany/ResumeSample/blob/master/web.md)
+#### 当面试官问：你有什么需要问我的吗？
+* [https://github.com/viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
+* [程序员面试如何反问面试官](https://www.bilibili.com/video/BV1bL4y1u7rP)
 ### 相关文档（PDF）
 
 **文档是从不同渠道收集而来，公用于交流学习，切勿相信文档里面的任何广告）！！！**
