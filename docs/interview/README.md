@@ -10,9 +10,9 @@ author: maYunLaoXi
 ### 介绍
 面试复习与总结传用链接
 
-[我对前端面试的一些看法与心得](/interview/talk.md)
+[我对前端面试的一些看法与心得](./talk.md)
 
-前面部分是笔者的总结，详细的参考文最后的[相关链接](/interview/#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5)
+前面部分是笔者的总结，详细的参考文最后的[相关链接](./#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5)
 
 ### 作者其它博客
 
@@ -22,46 +22,46 @@ author: maYunLaoXi
 
 ### JavaScript
 
-* [call、apply、bind的实现](/interview/javaScript/call-apply-bind.md)
-* [防抖和节流的实现](/interview/javaScript/debounce-throttle.md)
-* [Object.defineProperty](/interview/javaScript/defineProperty.md)
-* [javaScript继承的6种方法](/interview/javaScript/extends.md)
-* [new作做的事及其实现](/interview/javaScript/new.md)
-* [ES6的新特性](/interview/javaScript/es6.md)
-* [js数组去重（方法及耗时测试）](/interview/javaScript/array-unique.md)
-* [promise的实现](/interview/javaScript/promise.md)
+* [call、apply、bind的实现](./javaScript/call-apply-bind.md)
+* [防抖和节流的实现](./javaScript/debounce-throttle.md)
+* [Object.defineProperty](./javaScript/defineProperty.md)
+* [javaScript继承的6种方法](./javaScript/extends.md)
+* [new作做的事及其实现](./javaScript/new.md)
+* [ES6的新特性](./javaScript/es6.md)
+* [js数组去重（方法及耗时测试）](./javaScript/array-unique.md)
+* [promise的实现](./javaScript/promise.md)
 
 ### css
 
-* [BFC（定义，实现方法，作用）](/interview/css/BFC.md)
-* [盒子居中](/interview/css/boxCenter.md)
-* [消除浮动的方法](/interview/css/clearfix.md)
+* [BFC（定义，实现方法，作用）](./css/BFC.md)
+* [盒子居中](./css/boxCenter.md)
+* [消除浮动的方法](./css/clearfix.md)
 
 ### 浏览器相关
 
-* [浏览器渲染机制](/interview/broswer/browserRender.md)
-* [cookie、localStorage和sessionStorage的区别](/interview/broswer/cookie-localStorage-sessionStorage.md)
-* [同源策略与跨域触决方案](/interview/broswer/crow-origin.md)
-* [iframe的缺点](/interview/broswer/iframe.md)
-* [常见状态码](/interview/broswer/statusCode.md)
-* [浏览器的事件](/interview/broswer/DOMEvents.md)
-* [从输入URL到页面渲染的过程](/interview/broswer/url2render.md)
-* [history和hash路由的工作原理](/interview/broswer/router.md)
+* [浏览器渲染机制](./broswer/browserRender.md)
+* [cookie、localStorage和sessionStorage的区别](./broswer/cookie-localStorage-sessionStorage.md)
+* [同源策略与跨域触决方案](./broswer/crow-origin.md)
+* [iframe的缺点](./broswer/iframe.md)
+* [常见状态码](./broswer/statusCode.md)
+* [浏览器的事件](./broswer/DOMEvents.md)
+* [从输入URL到页面渲染的过程](./broswer/url2render.md)
+* [history和hash路由的工作原理](./broswer/router.md)
 
 ### VUE
 
-* [vueRouter相关](/interview/vue/vueRouter.md)
-* [vue双向数据绑定的原理](/interview/vue/vue-defineReactive.md)
+* [vueRouter相关](./vue/vueRouter.md)
+* [vue双向数据绑定的原理](./vue/vue-defineReactive.md)
 
 ### 面试真题（笔试）
 
-* [明源云在线笔试题](/interview/examination/mingyuanyun.md)
-* [环娱科技笔试题](/interview/examination/huanyutenic.md)
+* [明源云在线笔试题](./examination/mingyuanyun.md)
+* [环娱科技笔试题](./examination/huanyutenic.md)
 
 ### 其他
 
-* [rollup介绍](/interview/others/rollup.md)
-* [MVC、MVP、MVVM的理解与区别](/interview/others/mvc-mvp-mvvm.md)
+* [rollup介绍](./others/rollup.md)
+* [MVC、MVP、MVVM的理解与区别](./others/mvc-mvp-mvvm.md)
 ### 相关链接
 
 * [https://bitable.feishu.cn](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
@@ -76,7 +76,7 @@ author: maYunLaoXi
 * [程序员面试如何反问面试官](https://www.bilibili.com/video/BV1bL4y1u7rP)
 ### 相关文档（PDF）
 
-**文档是从不同渠道收集而来，公用于交流学习，切勿相信文档里面的任何广告）！！！**
+**文档是从不同渠道收集而来，公用于交流学习，切勿相信文档里面的任何广告！！！**
 
 [前端面试题1（问答式）](http://img.yingyinbi.com/pdf/%E5%AD%97%E8%8A%82%E5%89%8D%E7%AB%AF%E7%AC%AC%E4%B8%80%E6%9C%9F%E9%9D%A2%E8%AF%95%E9%A2%98.pdf)
 
